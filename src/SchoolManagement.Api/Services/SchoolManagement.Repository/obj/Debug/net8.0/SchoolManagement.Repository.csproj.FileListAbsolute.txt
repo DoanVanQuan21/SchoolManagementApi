@@ -1,0 +1,5 @@
+D:\workspace\githubs\SchoolManagementApi\src\SchoolManagement.Api\Services\SchoolManagement.Repository\obj\Debug\net8.0\SchoolManagement.Repository.csproj.AssemblyReference.cache
+D:\workspace\githubs\SchoolManagementApi\src\SchoolManagement.Api\Services\SchoolManagement.Repository\obj\Debug\net8.0\SchoolManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\githubs\SchoolManagementApi\src\SchoolManagement.Api\Services\SchoolManagement.Repository\obj\Debug\net8.0\SchoolManagement.Repository.AssemblyInfoInputs.cache
+D:\workspace\githubs\SchoolManagementApi\src\SchoolManagement.Api\Services\SchoolManagement.Repository\obj\Debug\net8.0\SchoolManagement.Repository.AssemblyInfo.cs
+D:\workspace\githubs\SchoolManagementApi\src\SchoolManagement.Api\Services\SchoolManagement.Repository\obj\Debug\net8.0\SchoolManagement.Repository.csproj.CoreCompileInputs.cache
